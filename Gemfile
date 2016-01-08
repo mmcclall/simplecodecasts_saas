@@ -43,6 +43,7 @@ gem 'devise', '3.4.1'
 # Use stripe for credit card transactions
 gem 'stripe', '1.16.1'
 
+
 # Use figaro to hide secret keys
 gem 'figaro', '1.0.0'
 
